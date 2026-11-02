@@ -7,9 +7,9 @@
 
 ## Task Navigation
 
-| Task ID | Project                                      | Branch                                                                                                     | Status      |
-| ------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------- |
-| AI-1    | LLM API Integration — Context-Aware Chatbot | [View Project](https://github.com/YOUR_USERNAME/valentius-kryptix-internship/tree/ai-1-llm-api-integration) | In Progress |
+| Task ID | Project                                      | Branch                                                                                          | Status      |
+| ------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------- |
+| AI-1    | LLM API Integration — Context-Aware Chatbot | [View Project](https://github.com/Yogendiran-SP/Valentius_Kryptix/tree/ai-1_llm_api_integration) | In Progress |
 
 *Additional assignments will be added as they are unlocked.*
 

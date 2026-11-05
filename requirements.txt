@@ -1,0 +1,7 @@
+fastapi
+google-genai
+pydantic
+google
+httpx
+dotenv
+tkinter
